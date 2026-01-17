@@ -52,3 +52,7 @@ Data cleaning, type normalization, and null handling were performed in Python to
 The analysis is based exclusively on awarded contract data published through the TED platform and does not include tender notices that did not result in an award.
 All metrics are computed using cleaned and standardized data to ensure comparability across time and entities.
 The project prioritizes transparency and reproducibility, with clear separation between raw data, transformed datasets, and analytical outputs.
+
+## Notebook
+The data cleaning, KPI computation, and preliminary analysis for this project are documented in the Jupyter Notebook: [01_staging_inspection.ipynb](notebook/01_staging_inspection.ipynb).
+
