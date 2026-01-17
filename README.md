@@ -41,6 +41,12 @@ Data cleaning, type normalization, and null handling were performed in Python to
 - Interactive Power BI dashboard for exploratory and executive-level analysis
 - Clean, analytics-ready dataset structured for KPI computation
 - Reproducible data analytics workflow documented in the repository
+ 
+ ### Dashboard Preview
+
+![Procurement Overview](powerbi/dashboard_overview.png)
+
+![Supplier Concentration](powerbi/dashboard_supplier_concentration.png)
 
 ## Methodological Notes
 The analysis is based exclusively on awarded contract data published through the TED platform and does not include tender notices that did not result in an award.
