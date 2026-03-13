@@ -118,7 +118,7 @@ The Power BI dashboard contains two analytical pages.
 - Monthly contract value trend
 - Top suppliers by contract value
   
-![contract_value_analysis](images/contract_value_analysis.png)
+ https://github.com/karineventurini/eu-procurement-analytics/blob/main/images/%20contract_value_analysis.png
 
 ## Key Insights
 
@@ -173,6 +173,7 @@ Karine G. Venturini de Oliveira
 Junior Data Analyst
 
  
+
 
 
 
