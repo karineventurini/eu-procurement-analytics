@@ -102,7 +102,7 @@ The Power BI dashboard contains two analytical pages.
 - Current vs previous year comparison
 
  ![Contract Volume & Trends](https://github.com/karineventurini/eu-procurement-analytics/raw/main/Immagini/contract_volume_trends.png)
- 
+ <img src="Immagini/contract_volume_trends.png" width="900">
   ---
 
 ### Economic Analysis
@@ -119,7 +119,7 @@ The Power BI dashboard contains two analytical pages.
 - Top suppliers by contract value
 
 ![Economic Analysis](https://github.com/karineventurini/eu-procurement-analytics/raw/main/Immagini/contract_value_analysis.png)
- 
+ <img src="Immagini/contract_value_analysis.png" width="900">
 ## Key Insights
 
 Main findings from the analysis include:
