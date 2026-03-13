@@ -101,7 +101,7 @@ The Power BI dashboard contains two analytical pages.
 - Top suppliers by number of contracts
 - Current vs previous year comparison
  
- ![Contract Volume & Trends](images/contract_volume_trends.png)
+![Contract Volume & Trends](Immagini/Volume dei contratti e Trends.png)
 
  
  ---
@@ -119,8 +119,9 @@ The Power BI dashboard contains two analytical pages.
 - Monthly contract value trend
 - Top suppliers by contract value
  
- ![Economic Analysis](images/contract_value_analysis.png)
----
+ ![Economic Analysis](Immagini/Valore del contratto assegnato Analysis.png)
+
+ ---
 
 ## Key Insights
 
@@ -175,6 +176,7 @@ Karine G. Venturini de Oliveira
 Junior Data Analyst
 
  
+
 
 
 
