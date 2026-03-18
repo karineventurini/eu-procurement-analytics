@@ -105,6 +105,12 @@ The Power BI dashboard contains two analytical pages.
 
 <img width="1083" height="720" alt="contract_volume_trends" src="https://github.com/user-attachments/assets/8e05a44a-5a9d-410f-b7c3-13b65d86f7d5" />
 
+This dashboard shows the evolution of awarded contracts over time and highlights the most active suppliers in EU public procurement.
+
+Key observations:
+- Contract volume increases significantly between 2018 and 2019
+- A limited number of suppliers account for a large share of total contracts
+- Monthly trends reveal fluctuations linked to procurement cycles
 
 ### Economic Analysis
  
@@ -121,7 +127,12 @@ The Power BI dashboard contains two analytical pages.
 
  <img width="1076" height="714" alt="contract_value_analysis" src="https://github.com/user-attachments/assets/a45eeb27-4e4a-41f3-b554-7ddde30feed6" />
 
+This dashboard analyzes the economic value of public procurement contracts across time.
 
+Key observations:
+- Contract values are highly skewed, with few large contracts dominating total value
+- Total contract value shows variability across years
+- Supplier concentration is evident in high-value contracts
  
 ## Key Insights
 
