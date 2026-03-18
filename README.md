@@ -8,6 +8,8 @@ The objective is to explore procurement trends, supplier activity, contract volu
 
 The project demonstrates an end-to-end data analytics workflow including data inspection, cleaning, modeling, and visualization.
 
+This project demonstrates my ability to transform large-scale public procurement data into actionable insights using Python and Power BI.
+
 ---
 
 ## Objectives
