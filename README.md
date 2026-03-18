@@ -136,14 +136,13 @@ Key observations:
  
 ## Key Insights
 
-Main findings from the analysis include:
+ - Public procurement activity increased significantly between 2018 and 2019, followed by a stabilization phase after 2020.
 
-- A steady increase in procurement activity between 2018 and 2022
-- Large variability in contract values, indicating a highly skewed distribution
-- Concentration of economic value among a subset of suppliers
-- Clear temporal trends visible at both yearly and monthly levels
+- Contract values are highly skewed: a small number of contracts account for a large proportion of total procurement value.
 
----
+- Supplier activity is concentrated, with a limited number of suppliers receiving a disproportionate share of awarded contracts.
+
+- Monthly patterns suggest procurement cycles influenced by public budgeting and funding allocation periods.
 
 ## Repository Structure
 
